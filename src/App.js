@@ -23,7 +23,7 @@ function App() {
       <br />
 
       <Container>
-        <Form>
+        <Form> 
 
           <Form.Group controlId="formBasicEmail">
             <Form.Label>Email address</Form.Label>
